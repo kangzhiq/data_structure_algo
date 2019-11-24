@@ -298,4 +298,4 @@ class SortLList2(LList):
             rem = rem.next
             q.next = p
             
-            
+        
